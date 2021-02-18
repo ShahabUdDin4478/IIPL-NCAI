@@ -1,5 +1,5 @@
 # Limestone_Mapping_Manuscript_Code
-This repository contains code used to generate all the results in the manuscript titled, "Mapping of limestone bearing formations in Hazara, Pakistan: Application of Machine Learning Algorithms on Multispectral Remote Sensing Data using Google Cloud Architecture".
+This repository contains code used to generate all the results in the manuscript titled, "Mapping of limestone bearing formations in Hazara, Pakistan: Application of Machine Learning Algorithms on Multispectral Remote Sensing Data using Google Cloud Architecture". https://doi.org/10.3390/ijgi10020058
 
 ## Requirements
 The code can be executed online by opening the link (given above) in any browser (Chrome Recommended). No specific system requirements needed. The code is executed on Google Earth Engine cloud computing platform. In our study, this code was developed and executed on a system with the following specifications, Intel® Core™ i5-8400 CPU @ (2.8 GHz and 2.81 GHz) and 8 GB RAM.
